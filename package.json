@@ -1,0 +1,8 @@
+{
+  "name": "fixture-ts-red-base",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "test": "vitest run" },
+  "devDependencies": { "vitest": "2.1.8" },
+  "packageManager": "pnpm@9.15.0"
+}
